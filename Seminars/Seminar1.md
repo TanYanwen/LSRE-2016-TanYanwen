@@ -33,6 +33,8 @@ Summary 1: The Art and Science of Software Release Planning
    This article introduces the release planing analysis of two dimensions. For the subjective, the author thinks the RP in the extend is ill - defined problem, need human intuition and capabilities to clarify the problem before seeking a solution. For the objective, the RP through reasonable modeling and optimization, can save the cost, and can set different plans according to the problems in different sizes. The author hope to combine the two aspects, he put forward a hybrid method based on integer linear programming.
    
    The author provide 5 different variables: decision variables, resource constraints, feature prioritization, stakeholders, objective functions, and then he make the variables to quantify, and put forward the concrete evaluation algorithm of each variable, through scientific modeling process to calculate the weight of these variables, this model can be more intuitive to every one of the features of value evaluation.
+   
+   Tool is a decision support, but the support is still decided by PM.
 
 -----------------------
 
