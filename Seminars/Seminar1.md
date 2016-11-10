@@ -43,7 +43,7 @@ Summary 2: A Case Study Evaluation of the Guideline-Supported QUPER Model for El
 1. A direct need identified in industry
 2. A suitable model was not found in the literature
 
-   After that, the author through an example explains the QUPER model for the process of elicitation of QR. The concrete process of the main points and seven steps:
+After that, the author through an example explains the QUPER model for the process of elicitation of QR. The concrete process of the main points and seven steps:
    
 1. Identify candidate QR.
 2. Define the scale and the unit.
