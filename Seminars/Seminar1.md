@@ -53,11 +53,11 @@ After that, the author through an example explains the QUPER model for the proce
 6. Set the candidate requirements
 7. Identify cost dependencies.
 
-   Later, the author through a practical case to explain in a big company evaluation methodology of QUPER is how to use it. There are two evaluations of the QUPER model carry out to use, they are in-depth semi-structured interviews and self-administrated questionnaires. After that, he mentioned QUPER model more needs to be considered in the use of other factors, such as performance requirements, availability requirements, etc. 
+Later, the author through a practical case to explain in a big company evaluation methodology of QUPER is how to use it. There are two evaluations of the QUPER model carry out to use, they are in-depth semi-structured interviews and self-administrated questionnaires. After that, he mentioned QUPER model more needs to be considered in the use of other factors, such as performance requirements, availability requirements, etc. 
    
-   The author also puts forward a few to use QUPER model concerns. First, there may be difficulties to convince others at the case company to use the model. Second, according to one practitioner, it is important to choose the right QR to apply QUPER.  Third, as several practitioners stated, to fully understand and evaluate the improvements of the decision-making process, the QUPER model should be used in a project from the start of a project until the product is launched to the market.
+The author also puts forward a few to use QUPER model concerns. First, there may be difficulties to convince others at the case company to use the model. Second, according to one practitioner, it is important to choose the right QR to apply QUPER.  Third, as several practitioners stated, to fully understand and evaluate the improvements of the decision-making process, the QUPER model should be used in a project from the start of a project until the product is launched to the market.
    
-   At the end of the article, the author put forward some further work content, the transferability of guidelines and examples to support methodology adoption, and the use of analogy-based estimations are interesting issues for further research.
+At the end of the article, the author put forward some further work content, the transferability of guidelines and examples to support methodology adoption, and the use of analogy-based estimations are interesting issues for further research.
 
 -----------------------
 
