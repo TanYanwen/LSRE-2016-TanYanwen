@@ -1,6 +1,8 @@
 Q1: What is GAP/CVA/IVA analysis?
 
-A: 1. GAP Analysis: Gap analysis means in the process of strategy implementation, compares the customer actual performance with strategic performance expectations, then strategy evaluation and revision. Actual and desired business performance compared to usually will produce gap, gap analysis is mainly to analyze the causes of the gap, and puts forward some methods to minimize or eliminate the gap.
+A: 
+
+1. GAP Analysis: Gap analysis means in the process of strategy implementation, compares the customer actual performance with strategic performance expectations, then strategy evaluation and revision. Actual and desired business performance compared to usually will produce gap, gap analysis is mainly to analyze the causes of the gap, and puts forward some methods to minimize or eliminate the gap.
 
 2. CVA Analysis: The customer value analysis is composed of many analysis methods, to understand the company's customers, competitors and market. Its application process is: first, develop close relationship with customers, after make the formal customer value analysis, finally carries on the customer value strategy management
 
