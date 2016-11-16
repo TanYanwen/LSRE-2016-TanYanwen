@@ -68,7 +68,7 @@ Through 11 software company's data collection and analysis, the author found tha
 
 -------------------
 
-After two article after I read but don't have a lot of ideas, so I hope we can know more through seminar class and then summarizes and the writing of personal feeling.
+There are two articles after I read but don't have a lot of ideas, so I hope we can know more through seminar class and then summarizes and the writing of personal feeling.
 
 -------------------
 
