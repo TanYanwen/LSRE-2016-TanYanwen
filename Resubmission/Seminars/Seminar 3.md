@@ -1,4 +1,4 @@
-1. Summary: “What Happened to Our Features? Visualization and Understanding of Scope Change Dynamics in a Large-Scale Industrial Setting”
+Article 1: “What Happened to Our Features? Visualization and Understanding of Scope Change Dynamics in a Large-Scale Industrial Setting”
 
 A dynamic range of product decisions change usually because changes in the environment. In this article, the author put forward a technical named feature survival chart to show their own characteristics and scope changes, through the use of a variety of color which is very easy to recognize. The technique is evaluated mainly by implementing in three projects. The practitioners for implementing are requirements manager, process manager and key performance indicator manager. Select of the project is based on the length, number of features and probability analysis project scope. The selected companies use milestones and requirement levels choose expert to monitor project progress and design team. These three project different in their size and complexity will conducting research.
 
@@ -8,7 +8,7 @@ My Reflection: Through the use of this technology, many companies can easily mon
 
 ________________________________________
 
-2. Summary: “Obsolete Software Requirements”
+Article 2: “Obsolete Software Requirements”
 
 Changes requirements in the process of development is usually defined as obsolete requirements, the author found that there's almost no research about obsolete requirements, so the author hope that through this research to understand what is obsolete requirements, obsolete requirements classified, what the methods exist, in industry practice, and can help to identify obsolete software requirements, how to deal with these requirements, etc.
 
